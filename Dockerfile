@@ -1,0 +1,8 @@
+FROM postgres:latest
+
+ENV POSTGRES_DB postgres
+ENV POSTGRES_USER user_d
+ENV POSTGRES_PASSWORD password_d
+
+
+EXPOSE 5432
