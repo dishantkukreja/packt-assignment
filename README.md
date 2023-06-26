@@ -39,6 +39,6 @@ For additional information about the project, including its implementation detai
 
 ## Contributors
 
-- Dishant kukreja(dishantkukreja26@gmai.com)
+- Dishant kukreja(dishantkukreja26@gmail.com)
 
 Feel free to reach out to the contributors for any questions or feedback.
